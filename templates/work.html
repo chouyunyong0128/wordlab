@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="static/stylesheets/mystyle.css">
+    <script src="static/scripts/jquery-3.3.1.min.js"></script>
+    <script src="static/scripts/myscript.js"></script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script> -->
+
+
+    <title>背單字網站</title>
+
+
+
+</head>
+<body class='work_page'>
+    <h1 style="text-align: center;padding-top: 30px;">工作單字</h1>
+    <!-- <table class="table table-striped"> -->
+    <table class="table table-striped" cellpadding="10" border='1'>
+
+      <!-- 第一行 -->
+        <tr scope="col">
+          <th>
+            <input type="checkbox" id='english' name="english" checked>
+            <label for="English">English</label>
+          </th>
+
+          <th>
+            <input type="checkbox" id='chinese' name="chinese" checked>
+            <label for="chinese">中文</label>
+          </th> 
+
+          <th>
+                Exam
+          </th>
+        </tr>
+
+        <!-- 單字區 -->
+        <!-- <p >Hello {{ word_dict }}!</p> -->
+
+        {% for word in word_dict.values() %}
+        {% set en_word = word[0] %}
+        {% set ch_word = word[1] %}
+        
+        
+        
+        
+        <tr scope="col">
+          <td onmouseover = "func(this)" class="en">{{en_word}}</td>
+          <td class="ch">{{ch_word}}</td>
+          <td>
+              <input type="text" id="{{en_word}}">
+          </td>
+        </tr>
+
+        <script>
+          document.getElementById("{{en_word}}").addEventListener('change', e => {
+              const ans = document.getElementById("{{en_word}}").value;
+              if(ans != "{{en_word}}"){
+                document.getElementById("{{en_word}}").style.background = "pink";
+              }
+              else{
+                document.getElementById("{{en_word}}").style.background = "#12E6C6";
+              }
+          });
+        </script>
+        
+
+        {% endfor %}
+
+      </table>
+</body>
+</html>

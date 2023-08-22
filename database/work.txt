@@ -1,0 +1,82 @@
+siblings @ n.兄弟姊妹
+fabric @ n.織物,結構,構造
+gracefully @ adv.優雅地
+integral @ adj.不可缺少的,完整的,整體的;n.積分
+unwrap @ v.解開,打開,展開
+probe @ v.用探針探測,查究,調查; n.探針,探查,探索,太空探測器
+specialize @ v.專攻,優化,專門從事
+generality @ n.主要部分,大多數,一般性,普遍性
+facilitate @ v.使容易,促進,幫助
+cautionary @ adj.警告的
+tale @ n.故事，傳說；敘述；謊話，捏造的話
+profile @ n.側影,輪廓,外型,形象; v.描繪..的輪廓
+strictly @ adv.嚴厲地；嚴格地；嚴密地；完全地；僅僅
+diffusion @ n.擴散,散播,傳播,普及
+diffuse @ v.擴散
+fluid @ adj.流動的,易變的,不固定的; n.液體,流體
+uniformly @ adv.一致地,均勻地
+intricacy @ n.錯綜複雜,（因複雜而產生的）難以理解
+dye @ v.染,被染色; n.染料,染色
+drop @ n.(一)滴,微量; v.使滴下,扔下,降低,(聲音,風)變弱
+convection @ n.傳送,對流
+evolve @ v.發展,逐步形成,進化,成長
+quantity @ n.數量
+exact @ v.需要,急需,勒索; adj.確切的,精確的
+exactness @ n.確切,精密
+churn @ v.攪拌,劇烈攪動
+illustrative @ adj.說明性的
+considerations @ n.注意事項
+consideration @ n.考慮
+indices @ n.索引,指標 (index 的複數)
+subtlety @ n.纖細；微妙；精細；敏銳；細微的差別；微妙之處
+exploit @ v. 剝削,利用,開發,開採
+beefy @ adj.健壯的
+resiliency @ n.彈力,彈性,回復力
+rapid @ adj.迅速的,陡峭的
+likelihood @ adj.可能性
+subtler @ adj.微妙的,難以捉摸的
+heterogeneous @ adj.異種的,由不同成分組成的
+robustness @ n.強壯,強健,堅實
+drawback @ n.缺點,不利條件,障礙,妨礙
+impose @ v.加..(負擔,稅金)
+mental @ adj.心智的
+tax @ n.稅金
+latency @ n.潛伏,潛在因素
+amount @ n.總數; v.合計於,總和
+wipe @ v.擦; n.擦
+infrastructure @ n.基礎設施
+glitch @ n.機器的小故障
+disrupt @ v. 使中斷,使混亂; adj.破裂的,中斷的
+cosmic rays @ n.宇宙射線
+mitigate @ n.緩和,減輕
+insidious @ adj.陰險的,隱伏的,不知不覺加劇的
+organically @ adj.用有機肥料栽種的
+succession @ n.連續,一系列
+get up @ phr.起床,變得猛烈
+backlog @ n.存貨；儲備金；備用品
+timely @ adj.及時的,適時的; adv.及時地,適時地
+slack @ adj.不嚴謹的,鬆散的
+firm @ n.企業,廠商
+repurposed @ n.重新定位
+roll out @ phr.碾平; 擀平; 軋平；將…鋪開
+obsolete @ v.廢棄,淘汰; n.廢棄的，淘汰的；過時的，老式的
+stale @ adj.不新鮮的,腐壞的; v.變不新鮮,變老舊
+debt @ n.債
+pilot @ n.舵手,飛行員,駕駛員; adj.引導的,(小規模)試驗性的; v.駕駛
+takeoff @ n.起飛,出發點,起點,起跳,發射
+instant @ adj.立即的,迫在眉急的
+route @ v.路線; v.給...定路線
+strain @ v.拉緊; n.負擔,張力,拉緊,沉重壓力
+backoff @ n.避退
+boon @ n.利益; adj.歡樂的,慷慨的
+escalation @ n.逐步上升,逐步擴大
+heterogeneous @ adj.不同來源的
+homogeneous @ adj.相同來源的
+decentralized @ adj.去中心化的
+disclose @ v.透漏
+proprietary @ adj.所擁有的; n.所有權
+confidential @ adj.機密的
+affiliates @ n.附屬公司
+disclaimer @ n.免責聲明
+readiness @ n.準備就緒
+collateral @ n.抵押品

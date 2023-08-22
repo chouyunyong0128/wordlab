@@ -1,0 +1,54 @@
+body.toeic_page {
+  /* background-image: url("pexels-ylanite-koppens-1445416.jpg"); */
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7) 100%,rgba(255, 255, 255, 0.7) 100%), url("plant.jpg");
+  background-size:cover;
+  /* background-color: rgb(249, 215, 252); */
+}
+
+body.work_page {
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.7) 100%,rgba(255, 255, 255, 0.7) 100%), url("light.jpg");
+  background-size:cover;
+  /* background-color: rgb(252, 243, 215); */
+}
+
+th{
+  padding-right: 20px;
+  padding-left: 20px;
+
+  /* padding-block-end: 30px; */
+  text-align: left;
+}
+
+td{
+  /* transition: all 1s -.3s; */
+    /* border:1px solid black; */
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-block-end: 15px;
+    opacity: 1;
+}
+
+
+
+
+table{
+  /* margin-top: 30px;
+  margin-left: auto; */
+  margin: auto;
+
+}
+
+
+td.en:hover  {
+
+  opacity: 1 !important;
+}
+
+
+td.ch:hover  {
+  opacity: 1 !important;
+}
+
+td.co:hover  {
+  opacity: 1 !important;
+}
